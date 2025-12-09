@@ -6,7 +6,7 @@ console.log(`before the bubble algorithm`);
 console.log(array);
 
 bubble(array);
-console.log("\n")
+console.log("\nafter the bubble algorithm")
 console.log(array);
 
 
